@@ -277,7 +277,7 @@ curl http://localhost:3000/filter?type=Science
 ## Project Structure
 
 ```
-joke-api/
+myJokeApi/
 ├── index.js          # Main application file with routes and logic
 ├── package.json      # Project dependencies and scripts
 └── README.md         # This file
