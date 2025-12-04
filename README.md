@@ -1,4 +1,4 @@
-# My Joke API
+#  😂 My Joke API
 
 A RESTful API built with Node.js and Express for managing and retrieving jokes. This project demonstrates full CRUD operations, authentication, and filtering capabilities.
 
