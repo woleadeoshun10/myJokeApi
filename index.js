@@ -1,4 +1,4 @@
-// My own API for jokes
+
 // Name: Adewole Adeoshun
 import express from "express";
 import bodyParser from "body-parser";
